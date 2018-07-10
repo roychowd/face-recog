@@ -6,8 +6,8 @@ import logo from './icon.png';
 const Logo = () => {
     return(
     <div className="ma4 mt0">
-        <Tilt className="Tilt br2 shadow-2" options={{ max : 15 }} style={{ height: 250, width: 250 }} >
-        <div className="Tilt-inner"><img alt='' src={logo}/></div>
+        <Tilt className="Tilt br2 shadow-2" options={{ max : 45 }} style={{ height: 200, width: 200 }} >
+        <div className="Tilt-inner pa4"><img style={{paddingTop:'18.5px'}} alt='logo' src={logo}/></div>
         </Tilt>
     </div>
     );
