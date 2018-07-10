@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: linear-gradient(0.25turn, #e66465, #9198e5);
+  /* background-image: linear-gradient(to left bottom, #051937, #652f64, #c64563, #fc873a, #ebe212); */
+  /* background: linear-gradient(89deg ,#051937, #004d7a, #008793, #00bf72, #a8eb12); */
+}
